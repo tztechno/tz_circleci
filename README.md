@@ -1,5 +1,11 @@
 # tz_git
 
+---
+
+# git操作 error collection
+
+---
+
 git init: 新しいGitリポジトリを初期化します。
 git init
 
